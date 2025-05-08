@@ -18,7 +18,10 @@ Group Chat Application using React Native, Node.js, Socket.IO
  `cd backend`
 `node index.js`
 
-
+<p align="center">
+  <img src="https://github.com/Kashika5/react-native-chat-app/blob/main/ReactNativeSocketIOExample.gif"width=48%>
+  
+</p>
 
 
 
