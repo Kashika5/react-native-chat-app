@@ -11,15 +11,14 @@ Group Chat Application using React Native, Node.js, Socket.IO
 
 
 **Run this project by this command :**
-1. `git clone https://github.com/kedar09/react-native-nodejs-socketio-chat.git`
-2. `cd react-native-nodejs-socketio-chat`
-3. `npm install`
-4. `npx react-native start`
-5. `npx react-native run-android`
-6. `cd backend`
-7. `node index.js`
+
+`npm install`
+ `npx react-native start`
+ `npx react-native run-android`
+ `cd backend`
+`node index.js`
 
 
-**Example :**
 
-<img alt="react-native-chat-app" src="https://github.com/kedar09/react-native-nodejs-socketio-chat/blob/master/ReactNativeSocketIOExample.gif" width="260" height="510" />
+
+
